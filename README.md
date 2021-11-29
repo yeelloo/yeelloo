@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @yeelloo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 # Hi, 👋 how are you?
 #### I'm Masud Rana
 
@@ -15,7 +9,7 @@
 
 
 ### 📬 Contact
-
+email: hangout14@gmail.com<br>
 GitHub: https://github.com/yeelloo<br>
 LinkedIn: https://www.linkedin.com/in/divergent-notion/<br>
 Portfolio: http://w3codemaster.com/<br>
