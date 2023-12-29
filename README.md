@@ -3,7 +3,7 @@
 
 ### ✍️ About me
 
-📚 I graduated in Computer Science in 2014, and I am currently as a Remote Full Stack Developer. <br>
+📚 I graduated in Computer Science in 2014, and I am currently a Remote Full Stack Developer. <br>
 👩‍💻 @Webpuzzlemaster LLC <br>
 💬 Any help or tips is always welcome! <br>
 
